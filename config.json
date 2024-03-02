@@ -1,0 +1,17 @@
+{
+  "repos": {
+    "useful": [
+      {
+        "name": "actual-project",
+        "weight": 2000
+      }
+    ],
+    "useless": [
+      {
+        "name": "rice-repo",
+        "weight": 10
+      }
+    ]
+  },
+  "token": "<add github access token here>"
+}
